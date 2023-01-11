@@ -6,7 +6,7 @@ I will be streaming everything I have learnedd.
 I will make sure to keep up with this being updated everytime.
 DISCLAIMER: JUST READ IN RAW CBA TO UPDATE JUST YET! TOO BUSY LEARNING
 
-Day one- Reviews
+# Code-Academy Day one Reviews
 HTML stands for HyperText Markup Language and is used to create the structure and content of a webpage.
 Most HTML elements contain opening and closing tags with raw text or other HTML tags between them.
 HTML elements can be nested inside other elements. The enclosed element is the child of the enclosing parent element.
@@ -15,9 +15,9 @@ Headings and sub-headings, <h1> to <h6> tags, are used to provide titles for sec
 <p>, <span> and <div> tags specify text or blocks.
 The <em> and <strong> tags are used to emphasize text.
 Line breaks are created with the <br> tag.
-Ordered lists (<ol>) are numbered and unordered lists (<ul>) are bulleted.
-Images (<img>) and videos (<video>) can be added by linking to an existing source.
-The purpose of a <form> is to allow users to input information and send it.
+Ordered lists (ol) are numbered and unordered lists (ul) are bulleted.
+Images (img> and videos (video) can be added by linking to an existing source.
+The purpose of a form is to allow users to input information and send it.
 The <form>‘s action attribute determines where the form’s information goes.
 The <form>‘s method attribute determines how the information is sent and processed.
 To add fields for users to input information we use the <input> element and set the type attribute to a field of our choosing:
