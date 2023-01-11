@@ -31,3 +31,14 @@ p, span and div tags specify text or blocks.<br>
 -An external stylesheet separates CSS code from HTML, by using the .css file extension.<br>
 -External stylesheets are the best approach when it comes to using HTML and CSS.<br>
 -External stylesheets are linked to HTML using the <link> element.<br>
+
+ # Code-Academy - Selectors
+ CSS can select HTML elements by type, class, ID, and attribute.<br>
+All elements can be selected using the universal selector.<br>
+An element can have different states using the pseudo-class selector.<br>
+Multiple CSS classes can be applied to one HTML element.<br>
+Classes can be reusable, while IDs can only be used once.<br>
+IDs are more specific than classes, and classes are more specific than type. That means IDs will override any styles from a class, and classes will override any styles from a type selector.<br>
+Multiple selectors can be chained together to select an element. This raises the specificity but can be necessary.<br>
+Nested elements can be selected by separating selectors with a space.<br>
+Multiple unrelated selectors can receive the same styles by separating the selector names with commas.<br>
