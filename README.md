@@ -54,3 +54,13 @@ Vertical margins collapse, so the space between vertically adjacent elements is 
 margin: 0 auto horizontally centers an element inside of its parent content area, if it has a width.<br>
 The overflow property can be set to display, hide, or scroll, and dictates how HTML will render content that overflows its parent’s content area.<br>
 The visibility property can hide or show elements.<br>
+ 
+ # Code-Academy Forms!
+ Client-side validations happen in the browser before information is sent to a server.<br>
+Adding the required attribute to an input related element will validate that the input field has information in it.<br>
+Assigning a value to the min attribute of a number input element will validate an acceptable minimum value.<br>
+Assigning a value to the max attribute of a number input element will validate an acceptable maximum value.<br>
+Assigning a value to the minlength attribute of a text input element will validate an acceptable minimum number of characters.<br>
+Assigning a value to the maxlength attribute of a text input element will validate an acceptable maximum number of characters.<br>
+Assigning a regex to pattern matches the input to the provided regex.<br>
+If validations on a <form> do not pass, the user gets a message explaining why and the <form> cannot be submitted.<br>
